@@ -1,0 +1,213 @@
+.m-headerbg{
+    display: none;
+}
+.m-headerMockup{
+    margin-top: 1.5rem;
+    width: 250px;
+}
+.m-callToAction{
+    font-family: "Nunito Sans";
+    font-weight: bold;
+    background-color: none;
+    padding-top: 10rem;
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+}
+@media screen and (max-width: 1324px) {
+    .headerMockup{
+        width: 400px;
+        margin-top: 2rem;
+    }
+    .callToAction{
+        padding-top: 7rem;
+    }
+}
+@media screen and (max-width: 1248px) {
+    .hide{
+        display: none;
+    }
+    .hidden{
+        display: block;
+    }
+    .leftSideHeader{
+        width: 550px;
+    }
+}
+@media screen and (max-width: 1140){
+    .headerMockup{
+        margin-left: 5rem;
+    }
+}
+@media screen and (max-width: 1116px){
+    .callToAction{
+        font-size: 2rem;
+        padding-top: 7rem;
+    }
+    .headerMockup{
+        width: 300px;
+    }
+}
+@media screen and (max-width: 1086px){
+    .headerMockup{
+        margin-left: 69px;
+    }
+}
+@media screen and (max-width: 910px){
+    .headerMockup{
+        width: 250px;
+    }
+    .callToAction{
+        font-size: 2rem;
+        padding-top: 4rem;
+    }
+}
+@media screen and (max-width: 861px){
+    .headerMockup{
+        display: none;
+    }
+    .callToAction{
+        display: none;
+    }
+    .m-headerbg{
+        display: block;
+    }
+    .m-headerMockup{
+        width: 570px;
+    }
+    .m-callToAction{
+        padding-top: 4rem;
+    }
+    .headerbg{
+        padding-top: 2rem;
+    }
+    .getStarted{
+        display: none;
+    }
+    .achievements-div{
+        padding-left: 56px;
+        padding-right: 56px;
+    }
+}
+@media screen and (max-width: 861px){
+    .whoarewediv{
+        padding-top: 36px;
+        padding-bottom: 59px;
+        padding-left: 88px;
+        padding-right: 88px;
+        font-size: 17px;
+    }
+}
+@media screen and (max-width: 760px){
+    nav ul li{
+        display: none;
+    }
+    .hidden{
+        display: none;
+    }
+    .loginBtn{
+        display: none;
+    }
+    .menu{
+        display: block;
+    }
+    .leftSideHeader{
+        width: 69px;
+    }
+    .m-callToAction{
+        padding: 2rem;
+    }
+    .m-headerMockup{
+        width: 400px;
+    }
+}
+@media screen and (max-width: 696px){
+    .whoarewediv {
+        padding-top: 36px;
+        padding-bottom: 54px;
+        padding-left: 56px;
+        padding-right: 56px;
+        font-size: 17px;
+}
+@media screen and (max-width: 591px){
+    .m-headerMockup{
+        width: 350px;
+    }
+    .m-callToAction{
+        font-size: 2rem;
+    }
+    .achievements-div{
+        display: none;
+    }
+    .achievements-div2{
+        display: flex;
+        padding-left: 116px;
+        padding-right: 116px;
+    }
+    .achievments-icons2{
+        width: 66px;
+    }
+}
+@media screen and (max-width: 524px){
+    .achievements-div2{
+        padding-left: 99px;
+        padding-right: 99px;
+    }
+}
+@media screen and (max-width: 491px){
+    .achievements-div2{
+        padding-left: 73px;
+        padding-right: 73px;
+    }
+}
+@media screen and (max-width: 458px){
+    .achievements-div2{
+        padding-left: 54px;
+        padding-right: 54px;
+    }
+    .achievments-icons2{
+        width: 46px;
+    }
+}
+@media screen and (max-width: 437px){
+    .m-headerMockup{
+        width: 260px;
+    }
+    .whyuscontent{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 416px){
+    .m-callToAction{
+        font-size: 2rem;
+        padding-top: 2rem;
+    }
+    .m-headerMockup{
+        padding-top:0rem;
+    }.whoarewediv {
+
+        padding-top: 36px;
+        padding-bottom: 54px;
+        padding-left: 41px;
+        padding-right: 36px;
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 411px){
+    .headerbg{
+        padding-top: 1rem;
+    }
+}
+@media screen and (max-width: 293px){
+
+}
+@media screen and (max-width: 293px){
+    .headerbg{
+        padding-top: 2rem;
+    }
+    .m-headerMockup{
+        width: 190px;
+    }
+    .m-callToAction{
+        font-size: 25px;
+    }
+}}

@@ -1,0 +1,53 @@
+.footer{
+    width: 100%;
+    height: 640px;
+    background: hsla(259, 100%, 66%, 1);
+
+background: linear-gradient(135deg, hsla(259, 100%, 66%, 1) 0%, hsla(309, 28%, 49%, 1) 100%);
+
+background: -moz-linear-gradient(135deg, hsla(259, 100%, 66%, 1) 0%, hsla(309, 28%, 49%, 1) 100%);
+
+background: -webkit-linear-gradient(135deg, hsla(259, 100%, 66%, 1) 0%, hsla(309, 28%, 49%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#8750FF", endColorstr="#A15B96", GradientType=1 );
+}
+.playstore{
+    width: 180px;
+}
+.CTAdownload{
+    padding-top: 120px;
+    padding-bottom: 30px;
+    color: white;
+    font-size: 50px;
+    font-family: "PT sans";
+}
+.center{
+    margin-left: 15vh;
+}
+.socialicons{
+    width: 25px;
+}
+.ffooter{
+    background-color: none;
+    margin-top: 170px;
+    display: flex;
+    justify-content: space-between;
+}
+.footerleft{
+    background-color: none;
+    display: flex;
+    justify-content: space-between;
+    width: 250px
+}
+.footerleft a{
+    color: white;
+    text-decoration: none;
+    font-family: PT sans;
+}
+.footerright{
+    background-color: none;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    width: 178px;
+}

@@ -1,0 +1,38 @@
+nav ul{
+    float: left;
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    position: relative;
+    font-family: "Josefin sans";
+    background-color: none;
+    color: black;
+    padding: 15px 30px;
+}
+nav ul li a{
+    display:  block;
+    font-family: "Josefin sans";
+    background-color: none;
+    color: black;
+}
+nav ul li ul{
+    display:  none;
+    position: absolute;
+    background-color: white;
+    margin: 3px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+nav ul li:hover ul{
+    display:  block;
+}
+nav ul li ul li{
+    width: 269px;
+}
+nav ul li ul li a{
+    padding: 0px 3px;
+}
+nav ul li ul li a:hover{
+    color: #c875ff;
+}
