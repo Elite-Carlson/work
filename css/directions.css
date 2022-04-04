@@ -1,0 +1,39 @@
+.map{
+    width: 100%;
+}
+.m-maps{
+    display: none;
+    padding-top: 100px;
+    padding-bottom: 45px;
+}
+.mapcontainer{
+    background-color: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    width: 45%;
+}
+.m-mapcontainer{
+    background-color: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    width: 90%;
+}
+.maps{
+    padding-top: 100px;
+    padding-bottom: 45px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.maptext{
+    font-size: 20px;
+    font-family: 'Oswald';
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+@media screen and (max-width: 618px){
+    .maps{
+        display: none;
+    }
+    .m-maps{
+        display: block;
+    }
+}
