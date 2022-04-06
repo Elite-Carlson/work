@@ -1,17 +1,8 @@
 .m-headerbg{
     display: none;
 }
-.m-headerMockup{
-    margin-top: 1.5rem;
-    width: 250px;
-}
-.m-callToAction{
-    font-family: "Nunito Sans";
-    font-weight: bold;
-    background-color: none;
-    padding-top: 10rem;
-    color: rgb(255, 255, 255);
-    font-size: 3rem;
+.m-whoarewediv{
+    display: none;
 }
 @media screen and (max-width: 1324px) {
     .headerMockup{
@@ -19,7 +10,7 @@
         margin-top: 2rem;
     }
     .callToAction{
-        padding-top: 7rem;
+        padding-top: 12rem;
     }
 }
 @media screen and (max-width: 1248px) {
@@ -41,7 +32,7 @@
 @media screen and (max-width: 1116px){
     .callToAction{
         font-size: 2rem;
-        padding-top: 7rem;
+        padding-top: 8rem;
     }
     .headerMockup{
         width: 300px;
@@ -58,30 +49,18 @@
     }
     .callToAction{
         font-size: 2rem;
-        padding-top: 4rem;
+        padding-top: 7rem;
     }
 }
 @media screen and (max-width: 861px){
     .headerMockup{
-        display: none;
+        width: 180px;
     }
     .callToAction{
-        display: none;
-    }
-    .m-headerbg{
-        display: block;
-    }
-    .m-headerMockup{
-        width: 570px;
-    }
-    .m-callToAction{
-        padding-top: 4rem;
+        padding-top: 5.5rem;
     }
     .headerbg{
         padding-top: 2rem;
-    }
-    .getStarted{
-        display: none;
     }
     .achievements-div{
         padding-left: 56px;
@@ -95,6 +74,30 @@
         padding-left: 88px;
         padding-right: 88px;
         font-size: 17px;
+    }
+}
+@media screen and (max-width: 790px){
+    .headerbg{
+        display: none;
+    }
+    .m-headerbg{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (1).jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 69vh;
+    }
+    .m-callToAction{
+        font-family: "Nunito Sans";
+        font-weight: bold;
+        background-color: none;
+        color: rgb(255, 255, 255);
+        font-size: 50px;
+        padding-left: 3rem;
+        padding-right: 3rem;
+
     }
 }
 @media screen and (max-width: 760px){
@@ -113,12 +116,6 @@
     .leftSideHeader{
         width: 69px;
     }
-    .m-callToAction{
-        padding: 2rem;
-    }
-    .m-headerMockup{
-        width: 400px;
-    }
 }
 @media screen and (max-width: 696px){
     .whoarewediv {
@@ -128,13 +125,15 @@
         padding-right: 56px;
         font-size: 17px;
 }
-@media screen and (max-width: 591px){
-    .m-headerMockup{
-        width: 350px;
-    }
+@media screen and (max-width: 641px){
     .m-callToAction{
-        font-size: 2rem;
+        font-size: 36px;
     }
+}
+@media screen and (max-width: 615px){
+    
+}
+@media screen and (max-width: 591px){
     .achievements-div{
         display: none;
     }
@@ -159,6 +158,32 @@
         padding-right: 73px;
     }
 }
+@media screen and (max-width: 493px){
+    .m-callToAction{
+        font-size: 27px;
+    }
+} 
+@media screen and (max-width: 488px){
+    .whoarewediv{
+        display: none;
+    }
+    .m-whoarewediv{
+        display: block;
+        border-style: dashed;
+        border-color: rgba(0, 0, 0, 0.521);
+        border-width: 2px;
+        /*box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;*/
+        border-radius: 17px; /*the 17 is cause thats how old i curently am*/
+        padding-top: 36px;
+        padding-bottom: 54px;
+        padding-left: 56px;
+        padding-right: 56px;
+        font-size: 17px;
+        font-weight: 300;
+        margin-left: 11%;
+        margin-right: 11%;
+    }
+}
 @media screen and (max-width: 458px){
     .achievements-div2{
         padding-left: 54px;
@@ -169,21 +194,12 @@
     }
 }
 @media screen and (max-width: 437px){
-    .m-headerMockup{
-        width: 260px;
-    }
     .whyuscontent{
         font-size: 12px;
     }
 }
 @media screen and (max-width: 416px){
-    .m-callToAction{
-        font-size: 2rem;
-        padding-top: 2rem;
-    }
-    .m-headerMockup{
-        padding-top:0rem;
-    }.whoarewediv {
+    .whoarewediv {
 
         padding-top: 36px;
         padding-bottom: 54px;
@@ -198,16 +214,7 @@
     }
 }
 @media screen and (max-width: 293px){
-
-}
-@media screen and (max-width: 293px){
     .headerbg{
         padding-top: 2rem;
-    }
-    .m-headerMockup{
-        width: 190px;
-    }
-    .m-callToAction{
-        font-size: 25px;
     }
 }}

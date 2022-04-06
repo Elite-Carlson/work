@@ -81,7 +81,7 @@
 }
 form{
     background-color: none;
-    padding-left: 22%;
+    /*padding-left: 22%;*/
 }
 .findoutmoretxt{
     background-color: none;
@@ -121,7 +121,11 @@ form{
     cursor: pointer;
 }
 .whoarewediv{
-    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;    border-radius: 17px; /*the 17 is cause thats how old i cureently am*/
+    border-style: dashed;
+    border-color: rgba(0, 0, 0, 0.521);
+    border-width: 2px;
+    /*box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;*/
+    border-radius: 17px; /*the 17 is cause thats how old i curently am*/
     padding-bottom: 69px;
     padding-top: 69px;
     padding-left: 120px;
@@ -175,4 +179,39 @@ a{
     margin-left: 12%;
     margin-right: 12%;
     width: 30%;
+}
+.newsletter{
+    background-color: white;
+    border-radius: 30px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width: 100%;
+}
+.newsletterform{
+    border: none;
+    border-radius: 30px;
+    padding-left: 6px;
+    height: 30px;
+    width: 69%;
+}
+.newsletterform:focus{
+    outline: none;
+}
+.newsletterbtn{
+    border: none;
+    background-color: black;
+    color: white;
+    float: right;
+    margin-right: 2px;
+    border-radius: 30px;
+    height: 30px;
+    width: 29%;
+}
+.newslettertxt{
+    background-color: none;
+    width: 100%;
+}
+.newslettertxt h5{
+    color: rgba(255, 255, 255, 0.575);
+    font-weight: 200;
 }
