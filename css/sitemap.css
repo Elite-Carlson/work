@@ -1,0 +1,81 @@
+.content{
+    background-color: none;
+    padding-top: 90px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.sitemaptxt{
+    color: rgba(0, 0, 0, 0.633);
+    font-size: 25px;
+}
+.sitemap_header{
+    font-size: 20px;
+    font-weight: 500;
+}
+.sitemap_links{
+    line-height: 38px;
+    color: #06c;
+}
+.sitemap_links:hover{
+    text-decoration: underline;
+}
+.divspacing{
+    background-color: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.div1{
+    width: 32%;
+}
+.div2{
+    width: 32%;
+}
+.div3{
+    width: 32%;
+}
+@media screen and (max-width: 1024px) {
+    .content{
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .div1{
+        width: 35%;
+    }
+    .div2{
+        width: 35%;
+    }
+    .div3{
+        width: 35%;
+    }
+}
+@media screen and (max-width: 907px){
+    .content{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .div1{
+        width: 30%;
+    }
+    .div2{
+        width: 30%;
+    }
+    .div3{
+        width: 30%;
+    }
+}
+@media screen and (max-width: 662px){
+    .divspacing{
+        flex-direction: column;
+    }
+    .div1{
+        width: 100%;
+    }
+    .div2{
+        width: 100%;
+    }
+    .div3{
+        width: 100%;
+    }
+}
