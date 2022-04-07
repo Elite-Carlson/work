@@ -1,0 +1,40 @@
+.m-headerbg-pages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/english.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}.m-headerbg-spanish{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/spanish.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-callToAction-pages{
+    font-family: "Nunito Sans";
+    font-weight: bold;
+    background-color: none;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+.scroll{
+    width: 85px;
+    position: absolute;
+    bottom: 0;
+}
+.main-content{
+    background-color: none;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.main-content-txt{
+    font-family: "Nunito Sans";
+    font-size: 18px;
+}
