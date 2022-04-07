@@ -23,7 +23,14 @@ const mbtnlanguages = document.querySelector(".m-btn-languages");
             dropdowncorporations.style.display = "none";
         } else {
             mobilenavbar.style.display = "block";
-        }  
+        }
+        if(menu.src == "http://127.0.0.1:5500/img/menu.png"){
+            menu.src = "http://127.0.0.1:5500/img/close.png";
+            //console.log("true");
+        }else{
+            menu.src = "http://127.0.0.1:5500/img/menu.png";
+            //console.log(menu.src);
+        }
     }
     function dropdownone(){
         if (dropdownlanguages.style.display === "block") {
