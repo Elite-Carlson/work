@@ -6,11 +6,111 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-}.m-headerbg-spanish{
+}
+.m-headerbg-spanish{
     display: flex;
     justify-content: center;
     align-items: center;
     background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/spanish.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-headerbg-french{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/french.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-headerbg-german{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/german.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-headerbg-arabic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/arabic.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-headerbg-russian{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/russian.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-headerbg-chinese{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/chinese.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-headerbg-portuguese{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/portuguese.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-headerbg-italian{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/italian.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-headerbg-japanese{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/japanese.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-headerbg-korean{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/korean.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-headerbg-swahili{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/swahili.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.m-headerbg-kinyarwanda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/kinyarwanda.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -37,4 +137,18 @@
 .main-content-txt{
     font-family: "Nunito Sans";
     font-size: 18px;
+}
+.start-now{
+    background-color: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    padding: 50px;
+    border-radius: 20px;
+}
+.contuct-us{
+    color: rgba(0, 0, 0, 0.747);
+    font-size: 15px;
+    font-weight: 500;
+}
+.contuct-us:hover{
+    color: black;
 }
