@@ -12,6 +12,7 @@ const mbtnlanguages = document.querySelector(".m-btn-languages");
     
     const menu = document.querySelector(".menu");
     const mobilenavbar = document.querySelector(".mobilenavbar");
+    const scrollgif = document.querySelector(".scroll");
 
     function showmobilenavbar(){
         if (mobilenavbar.style.display === "block") {
@@ -21,8 +22,10 @@ const mbtnlanguages = document.querySelector(".m-btn-languages");
             dropdownadults.style.display = "none";
             dropdownkidsandteens.style.display = "none";
             dropdowncorporations.style.display = "none";
+            scrollgif.style.display = "block";
         } else {
             mobilenavbar.style.display = "block";
+            scrollgif.style.display = "none"
         }
         if(menu.src == "http://127.0.0.1:5500/img/menu.png"){
             menu.src = "http://127.0.0.1:5500/img/close.png";
