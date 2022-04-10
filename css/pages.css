@@ -187,6 +187,15 @@
     background-size: cover;
     height: 100vh;
 }
+.m-headerbg-kids{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/kids.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
 .m-callToAction-pages{
     font-family: "Nunito Sans";
     font-weight: bold;
@@ -224,6 +233,13 @@
 }
 .contuct-us:hover{
     color: black;
+}
+.teensimg{
+    width: 100%;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 15px;
 }
 @media screen and (max-width: 866px){
     .m-headerbg-pages{
@@ -289,17 +305,17 @@
     .m-headerbg-live-online-courses{
         height: 60vh;
     }
+    .m-headerbg-kids{
+        height: 60vh;
+    }
     .m-callToAction-pages{
         font-family: "Nunito Sans";
         font-weight: bold;
         background-color: none;
         color: rgb(255, 255, 255);
         font-size: 35px;
-    }  
+    } 
     .scroll{
-        display: block;
-        width: 85px;
-        position: absolute;
-        bottom: 365;
+        display: none
     }
 }
