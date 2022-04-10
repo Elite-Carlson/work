@@ -205,6 +205,15 @@
     background-size: cover;
     height: 100vh;
 }
+.m-headerbg-corporations{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/corporations.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
 .m-callToAction-pages{
     font-family: "Nunito Sans";
     font-weight: bold;
@@ -318,6 +327,9 @@
         height: 70vh;
     }
     .m-headerbg-adult{
+        height: 70vh;
+    }
+    .m-headerbg-corporations{
         height: 70vh;
     }
     .m-callToAction-pages{
