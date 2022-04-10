@@ -196,6 +196,15 @@
     background-size: cover;
     height: 100vh;
 }
+.m-headerbg-adult{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/adult.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
 .m-callToAction-pages{
     font-family: "Nunito Sans";
     font-weight: bold;
@@ -243,70 +252,73 @@
 }
 @media screen and (max-width: 866px){
     .m-headerbg-pages{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-spanish{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-french{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-german{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-arabic{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-russian{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-chinese{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-portuguese{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-italian{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-japanese{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-korean{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-swahili{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-kinyarwanda{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-onenglish{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-onspanish{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-onfrench{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-ongerman{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-onkorean{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-onitalian{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-onportuguese{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-live-online-courses{
-        height: 60vh;
+        height: 70vh;
     }
     .m-headerbg-kids{
-        height: 60vh;
+        height: 70vh;
+    }
+    .m-headerbg-adult{
+        height: 70vh;
     }
     .m-callToAction-pages{
         font-family: "Nunito Sans";
