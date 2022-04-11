@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/english.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/english.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -11,7 +11,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/spanish.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/spanish.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -20,7 +20,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/french.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/french.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -29,7 +29,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/german.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/german.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -38,7 +38,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/arabic.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/arabic.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -47,7 +47,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/russian.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/russian.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -56,7 +56,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/chinese.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/chinese.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -65,7 +65,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/portuguese.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/portuguese.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -74,7 +74,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/italian.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/italian.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -83,7 +83,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/japanese.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/japanese.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -92,7 +92,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/korean.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/korean.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -101,7 +101,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/swahili.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/swahili.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -110,7 +110,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/kinyarwanda.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/kinyarwanda.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -119,7 +119,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onenglish.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onenglish.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -128,7 +128,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onspanish.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onspanish.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -137,7 +137,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onfrench.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onfrench.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -146,7 +146,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/ongerman.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/ongerman.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -155,7 +155,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onkorean.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onkorean.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -164,7 +164,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onitalian.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onitalian.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -173,7 +173,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onportuguese.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/onportuguese.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -182,7 +182,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/liveonlinecourses.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/liveonlinecourses.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -191,7 +191,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/kids.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/kids.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -200,7 +200,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/adult.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/adult.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -209,7 +209,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/corporations.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/corporations.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -218,7 +218,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/government.jpg")/*url("../img/girl/dei-r-2VZ9N4bYCgs-unsplash (4).jpg")*/;
+    background: linear-gradient(to bottom,#150227, rgba(88, 49, 167, 0.26)),url("../img/headers/government.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -267,6 +267,13 @@
     border-top-left-radius: 100px;
     border-bottom-right-radius: 100px;
     border-bottom-left-radius: 15px;
+}
+@media screen and (max-width: 760px){
+    .start-now{
+        padding: 0px;
+        box-shadow: none;
+        border-radius: 0px;
+    }
 }
 @media screen and (max-width: 866px){
     .m-headerbg-pages{
