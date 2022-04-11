@@ -215,3 +215,8 @@ a{
     color: rgba(255, 255, 255, 0.575);
     font-weight: 200;
 }
+.powered-by{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+}
